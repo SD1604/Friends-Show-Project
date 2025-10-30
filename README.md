@@ -1,2 +1,2 @@
 # Friends-Show-Project
-A data analysis project on the Friends TV Show using Python and Google Colab.
+A Multi Analysis project on the Friends TV Show using Python and Google Colab.
